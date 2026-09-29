@@ -19,8 +19,5 @@ Mit MR-ATLAS kannst du:
 
 Hinweis: MR-ATLAS ist ein schematisches Lernmodell. Es ersetzt keine Herstellerunterlagen, medizinische Schulung oder technische Sicherheitsprüfung.
 
-------------------------------------------------
-LINK für die MR-ATLAS Anwendung:
-
-https://mr-atlas-labor.mrmee.chatgpt.site/
-------------------------------------------------
+----------------------------------------------
+----------------------------------------------
