@@ -3,7 +3,8 @@ MR-ATLAS – MRT-Technik interaktiv verstehen
 
 MR-ATLAS ist eine herstellerneutrale 3D-Lernanwendung, mit der du den Aufbau und die Funktionsweise eines MRT-Systems erkunden kannst – im Browser, per Maus oder Touch.
 
-👉 "MR-ATLAS öffnen" (https://mr-atlas-labor.mrmee.chatgpt.site)
+👉 "MR-ATLAS öffnen" 
+(https://mr-atlas-labor.mrmee.chatgpt.site)
 
 Mit MR-ATLAS kannst du:
 
